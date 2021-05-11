@@ -1,0 +1,1 @@
+utlity for first git learning which makes use of index file.
